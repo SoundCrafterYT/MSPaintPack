@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "top": "minecraft:block/exposed_copper_door_top",
+    "side": "minecraft:block/exposed_copper/exposed_copper_door_top_side",
+    "side_alt": "minecraft:block/exposed_copper/exposed_copper_door_top_side_alt",
+    "crown": "minecraft:block/exposed_copper/exposed_copper_door_crown"
+  }
+}

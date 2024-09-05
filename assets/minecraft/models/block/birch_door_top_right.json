@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "minecraft:block/birch_door_bottom",
+    "top": "minecraft:block/birch_door_top",
+    "side": "minecraft:block/birch/birch_door_top_side",
+    "side_alt": "minecraft:block/birch/birch_door_top_side_alt",
+    "foot": "minecraft:block/birch/birch_door_foot",
+    "crown": "minecraft:block/birch/birch_door_crown"
+  }
+}

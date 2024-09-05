@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "minecraft:block/dark_oak_door_bottom",
+    "top": "minecraft:block/dark_oak_door_top",
+    "side": "minecraft:block/dark_oak/dark_oak_door_side",
+    "side_alt": "minecraft:block/dark_oak/dark_oak_door_side_alt",
+    "foot": "minecraft:block/dark_oak/dark_oak_door_foot",
+    "crown": "minecraft:block/dark_oak/dark_oak_door_crown"
+  }
+}

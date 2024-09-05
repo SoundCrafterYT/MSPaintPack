@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": "minecraft:block/cherry_door_bottom",
+    "top": "minecraft:block/cherry_door_top",
+    "side": "minecraft:block/cherry/cherry_door_top_side",
+    "side_alt": "minecraft:block/cherry/cherry_door_top_side_alt",
+    "foot": "minecraft:block/cherry/cherry_door_foot",
+    "crown": "minecraft:block/cherry/cherry_door_crown"
+  }
+}
