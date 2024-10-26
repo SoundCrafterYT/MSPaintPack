@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/door_top_left",
-  "textures": {
-    "top": "minecraft:block/weathered_copper_door_top",
-    "side": "minecraft:block/weathered_copper/weathered_copper_door_top_side",
-    "side_alt": "minecraft:block/weathered_copper/weathered_copper_door_top_side_alt",
-    "crown": "minecraft:block/weathered_copper/weathered_copper_door_crown"
-  }
-}

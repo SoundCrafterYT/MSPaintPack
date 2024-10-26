@@ -1,11 +1,8 @@
 {
   "parent": "minecraft:block/door_top_right_open",
   "textures": {
-    "bottom": "minecraft:block/bamboo_door_bottom",
     "top": "minecraft:block/bamboo_door_top",
-    "side": "minecraft:block/bamboo/bamboo_door_top_side",
-    "side_alt": "minecraft:block/bamboo/bamboo_door_top_side_alt",
-    "foot": "minecraft:block/bamboo/bamboo_door_foot",
-    "crown": "minecraft:block/bamboo/bamboo_door_crown"
+	"side": "minecraft:block/bamboo_door_side",
+	"hinge": "minecraft:block/bamboo_door_top_hinge"
   }
 }

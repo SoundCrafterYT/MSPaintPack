@@ -2,10 +2,7 @@
   "parent": "minecraft:block/door_bottom_right_open",
   "textures": {
     "bottom": "minecraft:block/spruce_door_bottom",
-    "top": "minecraft:block/spruce_door_top",
-    "side": "minecraft:block/spruce/spruce_door_side",
-    "side_alt": "minecraft:block/spruce/spruce_door_side_alt",
-    "foot": "minecraft:block/spruce/spruce_door_foot",
-    "crown": "minecraft:block/spruce/spruce_door_crown"
+	"side": "minecraft:block/spruce_door_side",
+	"hinge": "minecraft:block/spruce_door_bottom_hinge"
   }
 }

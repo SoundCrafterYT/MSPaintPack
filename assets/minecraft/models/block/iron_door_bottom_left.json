@@ -2,10 +2,7 @@
   "parent": "minecraft:block/door_bottom_left",
   "textures": {
     "bottom": "minecraft:block/iron_door_bottom",
-    "top": "minecraft:block/iron_door_top",
-    "side": "minecraft:block/iron/iron_door_side",
-    "side_alt": "minecraft:block/iron/iron_door_side_alt",
-    "foot": "minecraft:block/iron/iron_door_foot",
-    "crown": "minecraft:block/iron/iron_door_crown"
+	"side": "minecraft:block/iron_door_side",
+	"hinge": "minecraft:block/iron_door_bottom_hinge"
   }
 }

@@ -1,11 +1,8 @@
 {
   "parent": "minecraft:block/door_top_left_open",
   "textures": {
-    "bottom": "minecraft:block/oak_door_bottom",
     "top": "minecraft:block/oak_door_top",
-    "side": "minecraft:block/oak/oak_door_top_side",
-    "side_alt": "minecraft:block/oak/oak_door_top_side_alt",
-    "foot": "minecraft:block/oak/oak_door_foot",
-    "crown": "minecraft:block/oak/oak_door_crown"
+	"side": "minecraft:block/oak_door_side",
+	"hinge": "minecraft:block/oak_door_top_hinge"
   }
 }
